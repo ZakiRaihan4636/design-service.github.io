@@ -418,6 +418,7 @@ section {
 }
 .hero .hero-img {
   text-align: right;
+  margin-top: 60px;
 }
 @media (min-width: 1024px) {
   .hero {
